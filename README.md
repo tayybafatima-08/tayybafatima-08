@@ -75,8 +75,10 @@ const tayyba = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tayybafatima-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayybafatima-08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=tayybafatima-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayybafatima-08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayybafatima-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayybafatima-08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
