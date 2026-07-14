@@ -5,7 +5,6 @@
 <p>
   <a href="mailto:tayybafatima666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tayyba-fatima-756645394/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin%20logoColor=white"/></a>
-  <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/%20Portfolio-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white"/></a> -->
   <a href="https://github.com/tayybafatima-08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <img src="https://img.shields.io/badge/Location-Pakistan%20🇵🇰-D85A30?style=flat-square"/>
@@ -43,6 +42,8 @@ const tayyba = {
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 **Design**
 
@@ -75,10 +76,8 @@ const tayyba = {
 
 <div align="center">
 
-<!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=tayybafatima-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayybafatima-08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> -->
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayybafatima-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayybafatima-08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)-->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tayybafatima-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="47%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tayybafatima-08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"  />
 
 </div>
 
@@ -98,7 +97,7 @@ const tayyba = {
 
 | 📧 Email | 💼 LinkedIn |
 |:---:|:---:|
-| [tayybafatima666@gmail.com](mailto:tayybafatima666@gmail.com) | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/tayyba-fatima-756645394/) |
+| [tayybafatima666@gmail.com](mailto:tayybafatima666@gmail.com) | [tayyba-fatima-756645394](https://www.linkedin.com/in/tayyba-fatima-756645394/) |
 
 </div>
 
